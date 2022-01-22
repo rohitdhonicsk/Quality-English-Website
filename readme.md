@@ -1,4 +1,4 @@
-# REACT CONTACT APP
+# QUALITY ENGLISH WEBSITE
 
 ## ABOUT
 This was first year college project (english subject). This project was not integrated with backend ,but only have User Interface with following features.
@@ -30,25 +30,26 @@ This was first year college project (english subject). This project was not inte
 
 ## UI
 - Home Layout
-![Home Layout](UI/img1.PNG)
+![Home Layout](UI/img1.png)
+
 - Add Contact Layout
-![Course Section](UI/img2.PNG)
+![Course Section](UI/img2.png)
 - Search Contact
-![Writing Skill Section](UI/img3.PNG)
+![Writing Skill Section](UI/img3.png)
 - Add Contact Layout
-![Apply Job](UI/img4.PNG)
+![Apply Job](UI/img4.png)
 - Search Contact
-![Take Training](UI/img5.PNG)
+![Take Training](UI/img5.png)
 - Add Contact Layout
-![Grammer Main](UI/img6.PNG)
+![Grammer Main](UI/img6.png)
 - Search Contact
-![Grammer Example](UI/img7.PNG)
+![Grammer Example](UI/img7.png)
 - Add Contact Layout
-![Contact](UI/img8.PNG)
+![Contact](UI/img8.png)
 - Search Contact
-![Login](UI/img10.PNG)
+![Login](UI/img10.png)
 - Register
-![Login](UI/img11.PNG)
+![Login](UI/img11.png)
 
 ## Future Scope
 1. We need to add backend and database for project to store course enrollment and other user detail
